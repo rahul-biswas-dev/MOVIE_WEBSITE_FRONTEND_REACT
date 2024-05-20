@@ -1,7 +1,6 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
 import search_light from "../assets/NavbarAssets/search-w.png";
-import search_dark from "../assets/NavbarAssets/search-b.png";
 import light from "../assets/NavbarAssets/night.png";
 import dark from "../assets/NavbarAssets/day.png";
 
