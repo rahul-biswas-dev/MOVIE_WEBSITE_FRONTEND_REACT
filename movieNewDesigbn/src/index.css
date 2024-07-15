@@ -2,9 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.container{
-    transition: 0.5s;
-}
-.container.dark{
-    background: #222;
-}

@@ -1,8 +1,10 @@
-import Home from "./Home";
-import Search from "./Search";
-import SingleMovie from "./SingleMovie";
+import Footer from "./Footer"
+import GenreWiseMoviesReleased from "./GenreWiseMoviesReleased"
+import Header from "./Header";
+import MovieReleasedThisMonth from "./MovieReleasedThisMonth";
+import TopMoviesThisDecade from "./TopMoviesThisDecade";
+import TopMoviesThisMonth from "./TopMoviesThisMonth";
+import UpcomingMovies from "./UpcomingMovies";
 
 
-
-export default {Home, Search, SingleMovie};
-
+export default {Footer, GenreWiseMoviesReleased, Header,MovieReleasedThisMonth,TopMoviesThisDecade,TopMoviesThisMonth,UpcomingMovies}
